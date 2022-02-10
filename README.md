@@ -3,7 +3,7 @@
 - 👀 一名软件工程专业的在校生
 - 🌱 朝着考研努力
 - 💞️ 妄想冲击大厂的年轻少年
-- 📫 个人网站<a href="sersf.top">Sersf.top</a>
+- 📫 个人网站<a href="http://sersf.top">Sersf.top</a>
 ## 个人信息📰
 💬 微信：17640343176
 
